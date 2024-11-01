@@ -1,5 +1,5 @@
 # COC 不全书
-![COC 不全书 logo](https://myoctocat.com/assets/images/base-octocat.svg)
+![COC 不全书 logo](profile/logo.png)
 
 欢迎来到 COC 不全书
 
