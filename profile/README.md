@@ -1,4 +1,5 @@
-### COC 不全书
+# COC 不全书
+![COC 不全书 logo](https://myoctocat.com/assets/images/base-octocat.svg)
 
 欢迎来到 COC 不全书
 
