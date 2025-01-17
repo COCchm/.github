@@ -1,5 +1,4 @@
 # 门之钥基金会
-![COC 不全书 logo](images/logo.png)
 
 ***
 
